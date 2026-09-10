@@ -5,7 +5,7 @@ REQUERIMIENTO FUNCIONALES Y NO FUNCIONALES En este apartado aprenderemos las fas
 # FASE 2
 DIAGRAMADE FLUJO DEL VIDEO JUEGO REINO PERDIDO Aqui veras el diagrama del video jugeo Guardianes del Reino perdido 
 # FASE 3
-CODIGO 
+CODIGO en esta fase fue la creacion de nuestro codigo 
 # FASE 4
-PRESENTACION
+PRESENTACION final , te presentaremos le jugeo ya creado aplicando todas sus fases
 PROGRAMADOR JUNIOR ORIENTADO A PROGRAMACION A OBJETOS 
