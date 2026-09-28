@@ -1,11 +1,15 @@
 # Guardianes-del-Reino-perdido-
 # Programador Junior Astrid 
-# FASE 1
-REQUERIMIENTO FUNCIONALES Y NO FUNCIONALES En este apartado aprenderemos las fases funcionales y no funcionales de nuestro juego 
-# FASE 2
-DIAGRAMADE FLUJO DEL VIDEO JUEGO REINO PERDIDO Aqui veras el diagrama del video jugeo Guardianes del Reino perdido 
-# FASE 3
-CODIGO en esta fase fue la creacion de nuestro codigo 
-# FASE 4
-PRESENTACION final , te presentaremos le jugeo ya creado aplicando todas sus fases
-PROGRAMADOR JUNIOR ORIENTADO A PROGRAMACION A OBJETOS 
+# FASE 1 REQUERIMIENTOS FUNCIONALES Y NO FUNCIONALES
+En esta primera fase se realizó la planificación y definición de los requerimientos de nuestro videojuego “Guardianes del Reino Perdido”. Se establecieron las funciones que debe realizar el juego y las características que debe cumplir para brindar una buena experiencia al jugador. Se definieron elementos como la interacción con el usuario, el menú principal, la selección de personajes, los niveles, los cristales mágicos, los enemigos, el jefe final, las condiciones de victoria y derrota, además del tiempo límite. También se consideraron aspectos no funcionales como la facilidad de uso, organización, funcionamiento y presentación del videojuego.
+# FASE 2 DIAGRAMA DE FLUJO DEL VIDEOJUEGO “GUARDIANES DEL REINO PERDIDO
+En esta fase se elaboró el diagrama de flujo de nuestro videojuego, representando de manera ordenada todo el funcionamiento del juego antes de comenzar a programarlo. Se estableció el recorrido que seguirá el jugador desde la pantalla de bienvenida y el menú principal hasta el final de la aventura.
+El diagrama incluye la selección de personajes, preparación, los cinco niveles, la recuperación de los cinco cristales mágicos, las decisiones que debe tomar el jugador, el control del tiempo, el enfrentamiento contra el Rey Oscuro, las condiciones para ganar o perder, la victoria, las recompensas y el final del juego. Esta fase nos permitió visualizar y organizar la lógica que posteriormente sería utilizada en el código. 
+# FASE 3 CÓDIGO Y DESARROLLO DEL VIDEOJUEGO
+En esta fase se realizó la programación del videojuego utilizando Python, tomando como base los requerimientos y el diagrama de flujo realizados anteriormente. Se desarrolló un juego interactivo en el que el jugador puede ingresar diferentes opciones y tomar decisiones que permiten avanzar en la aventura.
+Se programó la pantalla de bienvenida, el menú principal, la selección de personajes, la preparación de la aventura, los diferentes niveles, los acertijos, la obtención de los cristales, el tiempo límite y el enfrentamiento final contra el Rey Oscuro. También se implementaron condiciones de victoria y derrota, recompensas y diferentes opciones de interacción mediante input().
+De esta manera, el código transforma el diagrama de flujo en un videojuego funcional y permite aplicar los conocimientos de programación y lógica adquiridos durante el proyecto.
+# FASE 4 PRESENTACIÓN FINAL DEL VIDEOJUEGO
+En esta última fase se realizará la presentación del videojuego terminado, mostrando el resultado de todo el proceso desarrollado durante las fases anteriores. Se demostrará el funcionamiento de “Guardianes del Reino Perdido”, explicando cómo se utilizaron los requerimientos, el diagrama de flujo y el código para construir el juego.
+Durante la presentación se mostrará la interacción con el jugador, la selección de personajes, el desarrollo de los niveles, la obtención de los cristales, las decisiones, el enfrentamiento con el jefe final y las condiciones de victoria o derrota.
+Con esta fase se busca demostrar el proyecto completo y los conocimientos adquiridos como Programador Junior orientado a la Programación Orientada a Objetos, mostrando cómo la planificación y la programación se integraron para crear nuestro videojuego.
